@@ -1,0 +1,19 @@
+body {
+    background-image: url("foto/calısma2-foto.lnk");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.row {
+    height: 150px;
+}
+
+.btn {
+    border-radius: 16px;
+    background-color: rgba(66, 82, 105, 0.466);
+    border-right: none;
+}
+
+p {
+    font-size: 36px;
+}
